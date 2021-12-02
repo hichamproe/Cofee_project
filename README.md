@@ -1,7 +1,7 @@
 # Cofee_project
 **This is bold text**	
 ~~This was mistaken text~~	
-* hicham
+1 hicham
   * yassin 
-* George Washington
-* Thomas Jefferson
+2 George Washington
+3 Thomas Jefferson
